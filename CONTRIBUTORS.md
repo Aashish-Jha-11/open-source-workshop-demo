@@ -2,10 +2,11 @@
 
 Add your name below 👇
 
-- [Your Name] - [Your GitHub Profile Link]
+- [Mayank Shekhar] - [https://github.com/MayankShekherchaturvedi]
 
 ---
 
 ### Example
 - Jane Doe - [GitHub](https://github.com/janedoe)
 - John Smith - [GitHub](https://github.com/johnsmith)
+- Mayank Shekhar - [GitHub](https://github.com/MayankShekherchaturvedi)
