@@ -9,3 +9,4 @@ Add your name below 👇
 ### Example
 - Jane Doe - [GitHub](https://github.com/janedoe)
 - John Smith - [GitHub](https://github.com/johnsmith)
+- Aadarsh Lekhwani - [gitHub] (https://github.com/Aadarsh-Lekhwani-26)
