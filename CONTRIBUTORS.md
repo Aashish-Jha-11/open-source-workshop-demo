@@ -2,7 +2,7 @@
 
 Add your name below 👇
 
-- [Your Name] - [Your GitHub Profile Link]
+- [Mayank Shekhar] - [https://github.com/MayankShekherchaturvedi]
 
 ---
 
