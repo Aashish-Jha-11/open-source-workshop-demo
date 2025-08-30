@@ -2,8 +2,7 @@
 
 Add your name below 👇
 
-- [Your Name] - [Your GitHub Profile Link]
-
+- sachit kumar - Aashish-Jha-11open-source-workshop-demo
 ---
 
 ### Example
